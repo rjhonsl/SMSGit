@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Backup\Android SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\Android Studio Projects\SMS Inquiry\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-018c4199afdcfdf25c4fe1f6a2b08ac8cd7a7181.jar" />
+    </item>
+
+</items>
